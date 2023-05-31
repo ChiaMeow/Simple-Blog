@@ -28,10 +28,32 @@
   --step-4: clamp(2.33rem, calc(1.81rem + 2.59vw), 3.66rem);
   --step-5: clamp(2.80rem, calc(2.11rem + 3.47vw), 4.58rem);
 
-  --font-family-heading: '', sans-serif;
-  --font-family-body: 'Open Sans', sans-serif;
+  --font-family-heading: 'HarmonyOS Sans SC', sans-serif;
+  --font-family-body: 'HarmonyOS Sans SC', 'Open Sans', sans-serif;
 
   --body-max-width: 1920px;
+
+  /* 鸿蒙字体 Bold */
+  @font-face {
+    font-family: 'HarmonyOS Sans SC';
+    src: local(''),
+          url('/fonts/HarmonyOS_Sans_SC_Bold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+          url('/fonts/HarmonyOS_Sans_SC_Bold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+
+   /* 鸿蒙字体 Regular */
+   @font-face {
+    font-family: 'HarmonyOS Sans SC';
+    src: local(''),
+          url('/fonts/HarmonyOS_Sans_SC_Regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+          url('/fonts/HarmonyOS_Sans_SC_Regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    font-weight: normal ;
+    font-style: normal;
+    font-display: swap;
+  }
 
   /* Container */
   --container-padding: 0 1rem;

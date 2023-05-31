@@ -33,13 +33,13 @@ const seo = {
         {
           frontmatter.image && (
             <picture>
-              <source srcset={`${frontmatter.image}.webp`} type="image/webp" />
+              <source srcset={`${frontmatter.image}`} type="image/webp" />
               <img
                 width="1200"
                 height="630"
                 class="post-content__img"
                 loading="eager"
-                src={`${frontmatter.image}.png`}
+                src={`${frontmatter.image}`}
                 alt={frontmatter.alt}
               />
             </picture>
@@ -95,5 +95,6 @@ const seo = {
     display: block;
     margin: 2rem auto;
     max-width: 100%;
+    border-radius: 2rem;
   }
 </style>
