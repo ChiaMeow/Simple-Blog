@@ -1,17 +1,17 @@
 ---
 layout: '../../layouts/Post.astro'
-title: MoonShot | 品牌视觉设计
-image: https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/8.3nz3nu2exva0.webp
+title: MoonShot | Logo 设计
+image: https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/8.2wx6zrh3tbq0.webp
 publishedAt: "2021-01-01"
-category: '品牌'
+category: 'Logo'
 ---
 
 
 
-![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/7.4dswax6wlaw0.webp)
-![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/6.1wnye81t8iv4.webp)
-![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/5.11z6tbmfe0sw.webp)
-![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/4.2iw67emw0o80.webp)
-![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/3.3fh2pz6crds0.webp)
-![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/2.6v9y7kj6ad00.webp)
-![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/1.15pe8v6j7urg.webp)
+![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/7.412cm6nqpn60.webp)
+![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/6.1b2z4um9eveo.webp)
+![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/5.3pi1lusrynq0.webp)
+![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/4.5ns9vb3f6e00.webp)
+![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/3.7b8agwq2o4o0.webp)
+![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/2.1xxu86m7ydgg.webp)
+![image](https://cdn.staticaly.com/gh/ChiaMeow/picx-images-hosting@master/1.3pjwyfleb3c0.webp)
