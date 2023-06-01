@@ -3,14 +3,14 @@
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.8;}
-	.st1{opacity:0.7;}
-	.st2{opacity:0.6;}
+	.st0{fill:none;stroke:#040000;stroke-width:10;stroke-miterlimit:10;}
 </style>
-<polygon class="st0" points="72.31,70.99 204.74,70.99 138.52,185.68 "/>
-<polygon class="st1" points="95.23,70.99 227.66,70.99 161.44,185.68 "/>
-<polygon class="st2" points="118.15,70.99 250.58,70.99 184.36,185.68 "/>
-<polygon class="st0" points="49.39,70.99 181.82,70.99 115.6,185.68 "/>
-<polygon class="st2" points="6.09,70.99 138.52,70.99 72.31,185.68 "/>
-<polygon class="st1" points="29.01,70.99 161.44,70.99 95.23,185.68 "/>
+<g>
+	<path class="st0" d="M6.31,159.99c33.6,0,60.84,27.24,60.84,60.84"/>
+	<path class="st0" d="M6.31,99.14C73.52,99.14,128,153.62,128,220.83"/>
+	<path class="st0" d="M6.31,38.3c100.81,0,182.53,81.72,182.53,182.53"/>
+	<path class="st0" d="M249.69,159.99c-33.6,0-60.84,27.24-60.84,60.84"/>
+	<path class="st0" d="M249.69,99.14C182.48,99.14,128,153.62,128,220.83"/>
+	<path class="st0" d="M249.69,38.3c-100.81,0-182.53,81.72-182.53,182.53"/>
+</g>
 </svg>
