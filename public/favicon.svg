@@ -3,14 +3,14 @@
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#040000;stroke-width:10;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#040000;stroke-width:8.8745;stroke-miterlimit:10;}
 </style>
 <g>
-	<path class="st0" d="M6.31,159.99c33.6,0,60.84,27.24,60.84,60.84"/>
-	<path class="st0" d="M6.31,99.14C73.52,99.14,128,153.62,128,220.83"/>
-	<path class="st0" d="M6.31,38.3c100.81,0,182.53,81.72,182.53,182.53"/>
-	<path class="st0" d="M249.69,159.99c-33.6,0-60.84,27.24-60.84,60.84"/>
-	<path class="st0" d="M249.69,99.14C182.48,99.14,128,153.62,128,220.83"/>
-	<path class="st0" d="M249.69,38.3c-100.81,0-182.53,81.72-182.53,182.53"/>
+	<path class="st0" d="M20.01,157.22c29.82,0,53.99,24.17,53.99,53.99"/>
+	<path class="st0" d="M20.01,103.22c59.65,0,107.99,48.35,107.99,107.99"/>
+	<path class="st0" d="M20.01,49.23c89.46,0,161.99,72.52,161.99,161.99"/>
+	<path class="st0" d="M235.99,157.22c-29.82,0-53.99,24.17-53.99,53.99"/>
+	<path class="st0" d="M235.99,103.22c-59.65,0-107.99,48.35-107.99,107.99"/>
+	<path class="st0" d="M235.99,49.23c-89.46,0-161.99,72.52-161.99,161.99"/>
 </g>
 </svg>

@@ -2,7 +2,7 @@
 import Layout from './Page.astro';
 import Container from '../components/Container.astro';
 import { formatDate, slugify } from '../utils/helpers';
-
+import 'animate.css';
 const { frontmatter } = Astro.props;
 
 const seo = {
@@ -30,6 +30,7 @@ const seo = {
           <time>{formatDate(frontmatter.publishedAt)}</time>
         </p>
         <!-- Hopefully we'll be able to use Astro's image integration for this soon -->
+
         {
           frontmatter.image && (
             <picture>
