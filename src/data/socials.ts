@@ -1,12 +1,12 @@
 export const socials = [
   {
-    name: 'Twitter',
-    url: 'https://twitter.com/littlesticksdev',
-    icon: 'mdi:twitter'
+    name: 'Weibo',
+    url: 'https://m.weibo.cn/u/3310268250?uid=3310268250&lfid=102803&luicode=20000174&t=userinfo',
+    icon: 'ri:weibo-fill'
   },
   {
     name: 'GitHub',
-    url: 'https://github.com/littlesticks',
+    url: 'https://github.com/ChiaMeow',
     icon: 'mdi:github'
   },
   {
